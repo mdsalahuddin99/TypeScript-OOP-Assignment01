@@ -5,7 +5,7 @@ This repository contains the solutions for the TypeScript and Object-Oriented Pr
 ## 👤 Developer Information
 - **Name:** Md Salah Uddin
 - **Role:** Web Developer (MERN Stack)
-- **Email:** mdsalahuddin.pro@gmail.com
+- **Email:** hellosalah.dev@gmail.com
 
 ## 📂 Project Structure
 The project is organized as follows:
@@ -38,7 +38,7 @@ In `solutions.ts`, you will find solutions for:
 1. Clone the repository:
    ```bash
    
-   git clone https://github.com/mdsalahuddin99/TypeScript-OOP-Assignment.git
+ https://github.com/mdsalahuddin99/TypeScript-OOP-Assignment01.git
 
 
 Install TypeScript globally (if not already installed):
